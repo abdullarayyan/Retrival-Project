@@ -1,0 +1,2 @@
+irfinalproject.NewString
+irfinalproject.PorterAlgo
